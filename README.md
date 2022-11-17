@@ -16,8 +16,6 @@
 
 - I have also tried to make it more informative by giving a WORDCLOUD option which shows the frequency of words in a pictorial way. Higher the frequence of the word, bigger the word and vice-versa.
 
-- If you like this project star this repo.  
 
-Do visit my blog for better explanations: https://machinelearningprojects.net/flipkart-reviews-extraction-and-sentiment-analysis/
 
 ![](flip.gif)
